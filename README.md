@@ -20,7 +20,7 @@ This is a Text Editor developed in Java that makes use of Swing components and J
   
   <table>
     <tr>
-     <td><img src="/ScreenShots/1.png"></td>
+     <td><img src="/ScreenShots/1.png"></td><br/>
      <td><img src="/ScreenShots/2.png"></td>
      <td><img src="/ScreenShots/3.png"></td>
      <td><img src="/ScreenShots/4.png"></td>
