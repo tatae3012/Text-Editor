@@ -1,5 +1,7 @@
 # Text-Editor
 
+## Overview
+
 This is a Text Editor developed in Java that makes use of Swing components and Java Collections Framework to implement several text edit functionalities as follows: 
 
   1.	Type a document and save it as a file of certain type. 
@@ -13,3 +15,17 @@ This is a Text Editor developed in Java that makes use of Swing components and J
      d. Count and Print total number of words and characters of selected text<br/>
       
   4.	Insert geometric shapes in the file and control its size by using mouse motions.
+  
+  ## Screenshots
+  
+  <table>
+    <tr>
+     <td><img src="/ScreenShots/1.png"></td>
+     <td><img src="/ScreenShots/2.png"></td>
+     <td><img src="/ScreenShots/3.png"></td>
+     <td><img src="/ScreenShots/4.png"></td>
+     <td><img src="/ScreenShots/5.png"></td>
+     <td><img src="/ScreenShots/6.png"></td>
+     <td><img src="/ScreenShots/7.png"></td>
+    </tr>
+  </table>
