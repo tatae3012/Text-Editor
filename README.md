@@ -28,6 +28,5 @@ This is a Text Editor developed in Java that makes use of Swing components and J
      <td><img src="/ScreenShots/4.png"></td>
      <td><img src="/ScreenShots/5.png"></td>
      <td><img src="/ScreenShots/6.png"></td>
-     <td><img src="/ScreenShots/7.png"></td>
     </tr>
   </table>
