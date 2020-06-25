@@ -22,10 +22,12 @@ This is a Text Editor developed in Java that makes use of Swing components and J
     <tr>
      <td><img src="/ScreenShots/1.png"></td>
      <td><img src="/ScreenShots/2.png"></td>
-     <td><img src="/ScreenShots/3.png"></td>
     </tr>
     <tr>
+     <td><img src="/ScreenShots/3.png"></td>
      <td><img src="/ScreenShots/4.png"></td>
+    </tr>
+    <tr>
      <td><img src="/ScreenShots/5.png"></td>
      <td><img src="/ScreenShots/6.png"></td>
     </tr>
